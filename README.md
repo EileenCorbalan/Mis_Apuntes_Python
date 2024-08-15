@@ -4,5 +4,5 @@ Este repositorio contiene una serie de notebooks que cubren diversos temas relac
 
 **Índice de temas**
 
-*Fundamentos:*
+*1. Fundamentos:*
 - Sintaxis básica
