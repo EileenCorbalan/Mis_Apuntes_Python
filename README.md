@@ -6,4 +6,4 @@ Este repositorio contiene una serie de notebooks que cubren diversos temas relac
 
 *1. Fundamentos:*
 - Sintaxis básica
-- Tipos de datos Primitivos y Colecciones
+- Tipos de datos Primitivos y Colecciones. Manejo de Strings
